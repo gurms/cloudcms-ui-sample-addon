@@ -22,7 +22,7 @@
             }],
             "dashlets": [{
                 "key": "random-product1",
-                "title": "Random Product",
+                "title": "Gurms Random Product",
                 "type": "sample-random-product-dashlet",
                 "message": "A random product for you",
                 "chrome": true
