@@ -1,0 +1,11 @@
+{
+    "evaluator": "context-project",
+    "condition": true,
+    "config": {
+        "documents-list-sort-fields": [{
+            "key": "category",
+            "title": "Category",
+            "field": "category"    
+        }]
+    }
+}
