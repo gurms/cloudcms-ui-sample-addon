@@ -6,7 +6,7 @@
             "key": "new",
             "buttons": [{
                 "key": "create-sample-space",
-                "title": "Create a Sample Space",
+                "title": "Create a Sample SpaceG",
                 "iconClass": "fa fa-plus",
                 "align": "left",
                 "action": "create-sample-space",
